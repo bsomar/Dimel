@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Dimel Solaire",
+    "slug": "my-app",
+    "icon": "./src/assets/img/icon_app.png",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.dimel.myapp"
+    }
+  }
+}
